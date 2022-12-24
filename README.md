@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+é+Hiago+Martins;Tenho+19+anos+de+idade;Sou+natural+de+Belo+Horizonte,+MG,+Brasil;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+é+Hiago+Martins;Tenho+20+anos+de+idade;Sou+natural+de+Belo+Horizonte,+MG,+Brasil;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
